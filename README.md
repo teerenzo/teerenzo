@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/teerenzo/github-readme-stats"><img alt="teerenzo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nkusikevin&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/teerenzo/github-readme-stats"><img alt="teerenzo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=teerenzo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/teerenzo/github-readme-stats"><img alt="teerenzo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teerenzo&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 <div align="center">
