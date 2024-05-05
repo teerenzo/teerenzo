@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @teerenzo
-- 👀 I’m software development enthusiast 
+- 👀 I’m software engineer 
 <!-- - 🌱 I’m currently using Flutter + Django  -->
 - 💞️ in love with programming
 - 📫 How to reach me 
