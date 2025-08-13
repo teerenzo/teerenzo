@@ -6,6 +6,8 @@
 - whatsapp + call echo"+250780640237"
   teerenzo.co@gmail.com
 
+  Buy me a Cooffe  https://buymeacoffee.com/teerenzocoj
+
 <!---
 teerenzo/teerenzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
